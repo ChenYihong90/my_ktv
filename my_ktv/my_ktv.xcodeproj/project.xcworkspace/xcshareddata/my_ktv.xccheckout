@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F68CCDF9-55B1-4353-BD83-085B941D0930</string>
+	<key>IDESourceControlProjectName</key>
+	<string>my_ktv</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>248ADCAB-73F2-4638-B476-EE47001121EC</key>
+		<string>svn://192.168.2.233/ios/my_ktv</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>my_ktv/my_ktv.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>248ADCAB-73F2-4638-B476-EE47001121EC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>248ADCAB-73F2-4638-B476-EE47001121EC</key>
+		<string>svn://192.168.2.233/ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.2.233/ios/my_ktv/my_ktv/my_ktv.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>248ADCAB-73F2-4638-B476-EE47001121EC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>248ADCAB-73F2-4638-B476-EE47001121EC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>my_ktv</string>
+		</dict>
+	</array>
+</dict>
+</plist>
